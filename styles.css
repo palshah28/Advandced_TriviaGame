@@ -1,0 +1,25 @@
+body {
+    /* background-image: url("background-iceberg.gif"); */
+    background-image: url("Solarsystem.jpg");
+}
+
+.bodysize {
+
+text-align: center;
+}
+
+
+#heading {
+    font-size: 50px;
+    font-family: fantasy;
+    background-color: brown;
+    color: white;
+}
+
+.listQuestions {
+    text-align: left;
+}
+
+.submitAnswer{
+    color: black;
+}
